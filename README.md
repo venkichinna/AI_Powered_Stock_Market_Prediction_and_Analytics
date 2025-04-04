@@ -2,7 +2,7 @@
 
 ## 🚀 Project Overview
 This project involves ingesting, processing, and analyzing real-time stock market data to identify trends and predict stock prices. It integrates **ETL development, cloud data storage, SQL querying, machine learning, and data visualization** to provide actionable insights into stock price movements.
-You can view the detailed fraud report [here](AI-Powered%20Stock%20Market%20Prediction%20%26%20Analytics%20Project%20Report.pdf)
+You can view the detailed AI-Powered Stock Market Prediction & Analytics report [here](AI-Powered%20Stock%20Market%20Prediction%20%26%20Analytics%20Project%20Report.pdf)
 ## 🛠️ Tech Stack
 - **ETL & Data Integration**: Azure Data Factory
 - **Database & Cloud Storage**: Microsoft SQL Server and Azure Blob Storage
@@ -46,9 +46,9 @@ You can view the detailed fraud report [here](AI-Powered%20Stock%20Market%20Pred
 | **Percentage Change** | Daily Market Movements | Date, PercentageChange | Highlights fluctuations |
 | **Model Predictions** | Predicted vs. Actual | LSTM_Prediction, ARIMA_Prediction, XGBoost_Prediction | Evaluates model accuracy |
 
-Reports:
-(Report IMG.PNG)
-(Report IMG .PNG)
+## Project Report Images
+![Report IMG 1](Reports/Report%20IMG.PNG)
+![Report IMG 2](Reports/Report%20IMG%20.PNG)
 
 ---
 
