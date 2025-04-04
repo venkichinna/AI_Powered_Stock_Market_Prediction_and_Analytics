@@ -47,8 +47,8 @@ You can view the detailed AI-Powered Stock Market Prediction & Analytics report 
 | **Model Predictions** | Predicted vs. Actual | LSTM_Prediction, ARIMA_Prediction, XGBoost_Prediction | Evaluates model accuracy |
 
 ## Project Report Images
-![Report IMG 1](Reports/Report%20IMG.PNG)
-![Report IMG 2](Reports/Report%20IMG%20.PNG)
+![Report IMG 1](Report%20IMG.PNG)
+![Report IMG 2](Report%20IMG%20.PNG)
 
 ---
 
